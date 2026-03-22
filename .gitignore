@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+memory.db
+.firebase/
+service-account.json
+*.log
