@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
 TELEGRAM_TOKEN = "8745888552:AAHEgmVc0qZzhpabnaiwmOjFFwE80CCi3XA"
-GEMINI_KEY = "AIzaSyBGBmILkuJdB7wi4ODQzfZwpvrmbopEcRY"
+GEMINI_KEY = "AIzaSyD97wJQGCXlahh7exzFVNhvnQIjed4Nz3I"
 OWNER_ID = 201003487776
 ALLOWED_USERS = [OWNER_ID, 8296767829]
 
